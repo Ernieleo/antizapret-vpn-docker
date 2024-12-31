@@ -41,8 +41,6 @@ ytimg.com
 ggpht.com
 googleusercontent.com
 googlevideo.com
-youtubei.googleapis.com
-
 
 # google
 play.google.com
@@ -136,11 +134,3 @@ mouser.com
 qualcomm.com
 usablenet.com
 recraft.ai
-
-#discord
-discord.com
-discord.gg
-discordapp.net
-discordapp.com
-discord.media
-discord-attachments-uploads-prd.storage.googleapis.com
