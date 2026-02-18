@@ -193,6 +193,7 @@ picassostaticassetsstg.azureedge.net
 studiostaticassetsprod.azureedge.net
 xgpuweb.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
+#НЕ МОИ ИЗМЕНЕНИЯ
 windowsupdate.microsoft.com
 update.microsoft.com
 windowsupdate.com
@@ -236,6 +237,7 @@ vpci.yves-rocher.com
 wunderground.com
 weather.com
 ru-board.com
+gree.com
 
 # Security / AV / Networking Vendors
 arkoselabs.com
@@ -317,8 +319,8 @@ radiojar.com
 redgifs.com
 reverb.com
 spotify.com
-theins.ru
-meduza.io
+libria.fun
+jikan.moe
 
 # rutracker
 t-ru.org
@@ -450,6 +452,7 @@ we.tl
 windsurf.com
 zencdn.net
 xdaforums.com
+developerhub.io
 raw.githubusercontent.com
 release-assets.githubusercontent.com
 caddy.community
@@ -494,6 +497,9 @@ oculus.com
 oculuscdn.com
 oculusvr.com
 viewpointsfromfacebook.com
+whatsapp.com
+whatsapp.net
+wa.me
 deovr.com
 
 viber.com
@@ -542,7 +548,6 @@ kamatera.com
 livekit.cloud
 scaleway.com
 siteground.com
-
 
 # Autodesk
 autodesk.com
